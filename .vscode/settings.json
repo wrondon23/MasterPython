@@ -1,0 +1,10 @@
+{
+    "workbench.preferredDarkColorTheme": "Solarized Dark",
+    "workbench.colorTheme": "Solarized Dark",
+    "python.autoComplete.addBrackets": true,
+    "workbench.preferredHighContrastColorTheme": "Solarized Dark",
+    "workbench.preferredLightColorTheme": "Solarized Dark",
+    "python.analysis.completeFunctionParens": true,
+    "editor.semanticHighlighting.enabled": false,
+    "editor.fontSize": 18
+}
