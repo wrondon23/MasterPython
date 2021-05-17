@@ -23,8 +23,10 @@ numeroEntero(numerosEnteros)
 
 #Ordenar y mostrar la lista 
 numerosEnteros.sort()
-#print(numerosEnteros)    
+print(numerosEnteros)    
 
 #monstrar longitud  de la lista
 
-#print(len(numerosEnteros))
+print(len(numerosEnteros))
+
+#buscar un elemento en la lista
