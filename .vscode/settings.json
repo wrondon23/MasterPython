@@ -7,4 +7,6 @@
     "python.analysis.completeFunctionParens": true,
     "editor.semanticHighlighting.enabled": false,
     "editor.fontSize": 18
+
+    
 }
